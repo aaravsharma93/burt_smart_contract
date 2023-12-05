@@ -1,0 +1,22 @@
+{
+  "name": "jhon_burt_smartcontract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.2",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^10.0.0",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^9.2.0",
+    "path": "^0.12.7",
+    "solc": "^0.8.4",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.7.0"
+  }
+}
